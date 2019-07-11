@@ -1,0 +1,7 @@
+#Create a label widget
+from tkinter import *
+m = Tk()
+m.title("You are welcomed here")
+lb = Label(m,text = "Hello")
+lb.pack(side = TOP) #set its position on the form using pack function and give it the location 
+m.mainloop()
