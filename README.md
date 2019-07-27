@@ -1,5 +1,4 @@
-Python GUI with tkinter
-
+#Python GUI with tkinter
 TKinter is used for GUI programming in python.
 Tkinter is the Python interface for Tk. Tkinter is an acronym for "Tk interface". 
 Tk was developed as a GUI extension for the Tcl scripting language by John Ousterhout. 
